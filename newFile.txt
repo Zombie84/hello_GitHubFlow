@@ -8,3 +8,6 @@ Was ist wenn ich vorher in VS-Code auschecke nach main?
 Ich blaub das bringt nichts. Ich versuchs mit "Push zu..."
 
 Ich ändere jetzt diese Datei in main auf github.com
+
+Noch ein Merge-Konflikt:
+Ich ändere auf github.com
