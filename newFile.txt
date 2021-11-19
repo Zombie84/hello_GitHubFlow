@@ -10,3 +10,4 @@ Ich blaub das bringt nichts. Ich versuchs mit "Push zu..."
 Ich hab auf github.com was gändert.
 Dann hab ich im terminal fetch gemacht.
 jetzt ändere ich lokal und commite.
+Ich ändere jetzt diese Datei in main auf github.com
