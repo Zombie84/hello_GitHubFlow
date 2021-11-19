@@ -6,3 +6,5 @@ Bei github.com passiert nichts?
 Hab den Pull-Request jetzt auf github.com gemacht
 Was ist wenn ich vorher in VS-Code auschecke nach main?
 Ich blaub das bringt nichts. Ich versuchs mit "Push zu..."
+
+Ich ändere jetzt diese Datei in main auf github.com
