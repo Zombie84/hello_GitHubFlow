@@ -14,3 +14,6 @@ Ich ändere jetzt diese Datei in main auf github.com
 
 Noch ein Merge-Konflikt:
 Ich ändere auf github.com
+
+neuer M-K:
+ich ändere lokal
